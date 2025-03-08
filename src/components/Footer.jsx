@@ -1,0 +1,15 @@
+import React from 'react';
+
+const Footer = () => {
+  return (
+    <footer style={{ marginTop: '20px', padding: '10px', backgroundColor: '#f8f9fa', textAlign: 'center' }}>
+      <p>Todos los derechos reservados.</p>
+      <p>Coquetas INC ©</p>
+      <p>Dirección: Simancas (Madriz)</p>
+      <p>Teléfono: 917335673 - 635444912</p>
+      <p>Email: croquetasINC@hotmail.com</p>
+    </footer>
+  );
+};
+
+export default Footer;
